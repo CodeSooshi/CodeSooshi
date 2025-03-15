@@ -1,5 +1,5 @@
 <h1 align="center">  Hi, im CodeS👀shi!  </h1>
-<h4 align="center">  Uni-Student Front End Dev working towards Back-End💫💻 </h4>
+<h4 align="center">  Uni-Student Front End Developer working towards Back-End💫💻 </h4>
 
 #  Skills
 ### My Stack:
