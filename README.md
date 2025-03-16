@@ -1,4 +1,7 @@
-<h1 align="center">  Hi, im CodeS👀shi!  </h1>
+<p align="center">
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> 
+</p>
+
 <h4 align="center">  Uni-Student Front End Developer working towards Back-End💫💻 </h4>
 
 #  Skills
