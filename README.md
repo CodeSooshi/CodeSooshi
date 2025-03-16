@@ -1,10 +1,12 @@
-<h1 align="center">  Hello, im CodeS👀shi </h1>
+<h1 align="center">  Hello, im CodeS👀shi! </h1>
 
 <p align="center">
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> 
 </p>
 
 <h4 align="center">  Uni-Student Front End Developer working towards Back-End💫💻 </h4>
+<h4 align="center">  I work on many different projects so expect a lot of arbritary works here lol </h4>
+
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=CodeSooshi&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/CodeSooshi) 
 
