@@ -19,15 +19,16 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=CodeSooshi&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/CodeSooshi) 
 
-#  Skills
-### My Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,threejs,babel,react,nodejs,cpp,cs,dotnet,mysql,visualstudio,vscode,postman,npm,regex,&perline=10)](https://skillicons.dev) 
-### Preferred Environments:
+#  Skills:
+### Language Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,mysql,&perline=10)](https://skillicons.dev) 
+### Preferred Environments
 [![My Skills](https://skillicons.dev/icons?i=mint,apple,windows,&perline=10)](https://skillicons.dev) 
-### Technologies:
+### Technologies
 [![My Skills](https://skillicons.dev/icons?i=threejs,babel,react,nodejs,dotnet,regex,&perline=10)](https://skillicons.dev) 
-### Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,threejs,babel,react,nodejs,cpp,cs,dotnet,mysql,visualstudio,vscode,postman,npm,regex,&perline=10)](https://skillicons.dev) 
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,postman,npm,godot,unreal,blender,ps,ae,&perline=10)](https://skillicons.dev) 
 
+<h1 align="center">  Wherever you're, have a great day or night! </h1>
 
 ![8351224-3726520525](https://github.com/user-attachments/assets/1e4729f2-ea95-4dc8-9b70-a504f7c9a2ee)
