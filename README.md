@@ -7,7 +7,7 @@
 
 #  About Me: 
 <h4 align="center">  Uni-Student Front End Developer working towards Back-End💫💻 </h4>
-Hi, I'm Jaiden, based in California, United States. Online, I go by Sooshi, which is the name I’m most known by in various internet spaces I work on a wide range of projects, so you'll find a variety of different works here. I consider myself a Front-End, Web, and Game Developer! 😆
+Hi, I'm Jaiden, based in California (Hell), United States. Online, I go by Sooshi, which is the name I’m most known by in various internet spaces. I work on a wide range of projects, so you'll find a variety of different works here. I consider myself a Front-End, Web, and Game Developer! 😆
 
 
 
