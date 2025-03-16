@@ -6,6 +6,8 @@
 
 <h4 align="center">  Uni-Student Front End Developer working towards Back-End💫💻 </h4>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=CodeSooshi&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/CodeSooshi) 
+
 #  Skills
 ### My Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,threejs,babel,react,nodejs,cpp,cs,dotnet,mysql,visualstudio,vscode,postman,npm,regex,&perline=10)](https://skillicons.dev) 
