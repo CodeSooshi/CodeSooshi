@@ -7,7 +7,7 @@
 
 <h2 align="center">  About Me: </h2>
 <h4 align="center">  Uni-Student Front End Developer working towards Back-End💫💻 </h4>
-<h4 align="center">  My name is Jaiden, but in various internet spaces I go by and formally known as Sooshi.  I work on many different projects so expect a lot of works here!  </h4>
+My name is Jaiden, but in various internet spaces I go by and formally known as Sooshi.  I work on many different projects so expect a lot of works here!  
 <h4 align="center">   Hobbies or Interests? </h4>
 <h4 align="center">  Programming/Coding (obviously), Graphic Designing, Music Composing, Cooking, Nature Walks, and Sleeping!  </h4>
 <h4 align="center">   From? </h4>
