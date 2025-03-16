@@ -5,13 +5,10 @@
 </p>
 
 
-<h2 align="center">  About Me: </h2>
+#  About Me: 
 <h4 align="center">  Uni-Student Front End Developer working towards Back-End💫💻 </h4>
-My name is Jaiden, but in various internet spaces I go by and formally known as Sooshi.  I work on many different projects so expect a lot of works here!  
-<h4 align="center">   Hobbies or Interests? </h4>
-<h4 align="center">  Programming/Coding (obviously), Graphic Designing, Music Composing, Cooking, Nature Walks, and Sleeping!  </h4>
-<h4 align="center">   From? </h4>
-<h4 align="center">  United States, CA </h4>
+Hi, I'm Jaiden, based in California, United States. Online, I go by Sooshi, which is the name I’m most known by in various internet spaces I work on a wide range of projects, so you'll find a variety of different works here. My passions include programming, graphic design, music composition, cooking, nature walks, and, of course, sleeping! 😆
+
 
 
 
