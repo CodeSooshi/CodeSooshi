@@ -8,13 +8,13 @@
 
 #  Skills
 ### My Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,threejs,babel,react,nodejs,cpp,cs,dotnet,mysql,visualstudio,vscode,postman,npm,regex,&perline=5)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,threejs,babel,react,nodejs,cpp,cs,dotnet,mysql,visualstudio,vscode,postman,npm,regex,&perline=10)](https://skillicons.dev) 
 ### Preferred Environments:
-[![My Skills](https://skillicons.dev/icons?i=mint,apple,windows,&perline=5)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=mint,apple,windows,&perline=10)](https://skillicons.dev) 
 ### Technologies:
-[![My Skills](https://skillicons.dev/icons?i=threejs,babel,react,nodejs,dotnet,regex,&perline=5)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=threejs,babel,react,nodejs,dotnet,regex,&perline=10)](https://skillicons.dev) 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,threejs,babel,react,nodejs,cpp,cs,dotnet,mysql,visualstudio,vscode,postman,npm,regex,&perline=5)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,threejs,babel,react,nodejs,cpp,cs,dotnet,mysql,visualstudio,vscode,postman,npm,regex,&perline=10)](https://skillicons.dev) 
 
 
 # Q/A
