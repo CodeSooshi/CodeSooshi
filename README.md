@@ -20,14 +20,30 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=CodeSooshi&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/CodeSooshi) 
 
 #  Skills:
-### *Language Stack*
+<details>
+<summary>Language Stack</summary>
+   
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,mysql,&perline=10)](https://skillicons.dev) 
-### *Preferred Environments*
+</details>
+
+<details>
+<summary>Preferred Environments</summary>
+   
 [![My Skills](https://skillicons.dev/icons?i=mint,apple,windows,&perline=10)](https://skillicons.dev) 
-### *Technologies*
+</details>
+
+<details>
+<summary>Technologies</summary>
+   
 [![My Skills](https://skillicons.dev/icons?i=threejs,babel,react,nodejs,dotnet,regex,&perline=10)](https://skillicons.dev) 
-### *Tools*
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,postman,npm,godot,unreal,blender,ps,ae,&perline=10)](https://skillicons.dev) 
+</details>
+
+<details>
+<summary>Tools</summary>
+
+   [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,postman,npm,godot,unreal,blender,ps,ae,&perline=10)](https://skillicons.dev) 
+</details>
+
 
 <h3 align="center">  Wherever you're, have a great day or night! </h3>
 
